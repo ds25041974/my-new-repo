@@ -8,5 +8,11 @@ This repository was set up to test the connection between local Git and GitHub.
 
 ## Author
 
-Created by: dineshsrivastava07-cell
+Created by: ds25041974
 Email: ds.25041974@gmail.com
+
+---
+
+## Connection Test
+
+✅ Successfully connected and pushed using ds25041974 GitHub account!
